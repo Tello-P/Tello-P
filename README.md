@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/wukffwhWebgAAAAi/task-manager-windows-9x.gif" width="40" align="middle"> **About me**
 
 
-I am a computer engineering student, currently halfway through my degree. I am passionate about systems programming, low-level development, and creating tools that explore how software works under the hood. I enjoy learning deeply and building practical, creative projects that help me understand the technology better.
+I am a computer engineering student, currently halfway through my degree. I love systems programming, low-level development, and creating tools that explore how software works under the hood. I enjoy learning deeply and building practical, creative projects that help me understand the technology better.
 
 - 🌱 I’m currently learning and improving skills in:
   - C & Java programming(advanced topics)
