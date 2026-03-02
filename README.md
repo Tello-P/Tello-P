@@ -9,8 +9,8 @@ I am a computer engineering student, currently halfway through my degree. I love
 
 - 🌱 I’m currently learning and improving skills in:
   - C & Java programming(advanced topics)
-  - Kernel development and low-level system programming
-  - Networking with Java sockets
+  - Low-level system programming
+  - Networking
 - I’m interested in collaborating on projects related to **systems, tools, and open-source software**.
 - 📫 Reach me at: <a href="mailto:perezgarrote.tello@gmail.com">perezgarrote.tello@gmail.com</a>
 
