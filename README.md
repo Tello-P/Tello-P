@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/wukffwhWebgAAAAi/task-manager-windows-9x.gif" width="40" align="middle"> **About me**
 
 
-I am a computer engineering student, currently halfway through my degree. I love systems programming, low-level development, and creating tools that explore how software is working physicaly.
+I am a computer engineering student, currently halfway through my degree. I love systems programming, low-level development, and creating tools that explore how software works physically.
 
 - I’m currently learning:
   - C & Java programming(advanced topics)
