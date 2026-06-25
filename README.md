@@ -5,12 +5,11 @@
 <img src="https://media.tenor.com/wukffwhWebgAAAAi/task-manager-windows-9x.gif" width="40" align="middle"> **About me**
 
 
-I am a computer engineering student, currently halfway through my degree. I love systems programming, low-level development, and creating tools that explore how software works under the hood. I enjoy learning deeply and building practical, creative projects that help me understand the technology better.
+I am a computer engineering student, currently halfway through my degree. I love systems programming, low-level development, and creating tools that explore how software is working physicaly.
 
-- I’m currently learning and improving skills in:
+- I’m currently learning:
   - C & Java programming(advanced topics)
   - Low-level system programming
-  - Networking
 - I’m interested in collaborating on projects related to **systems, tools, and open-source software**.
 - Reach me at: <a href="mailto:perezgarrote.tello@gmail.com">perezgarrote.tello@gmail.com</a>
 
